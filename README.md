@@ -57,7 +57,7 @@ In India, **manual scavenging**—the practice of manually cleaning sewers—cla
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nali-bot.git
+git clone https://github.com/MohammedAnasNathani/Nali-Bot-RedBrick-
 cd nali-bot
 
 # Install dependencies
